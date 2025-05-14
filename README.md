@@ -13,8 +13,24 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## 🔥 Featured Projects
 
+### 🔍 [QR Code Entry System](https://github.com/Dattu-Deshmukh/QR-Code-Event-Entry-System)
+> A Streamlit web app for scanning and validating student QR codes for one-time event entry using token verification from a local CSV file.
 
+🛠 **Built With:**  
+`Python` `Streamlit` `Pandas` `OpenCV` `VS Code`
+
+🚀 **Live Demo:** [dattu-qr.streamlit.app](https://qr-scanner-entrypass-fairwell-event.streamlit.app)
+
+📸 **Preview:**
+
+![IMAGE1](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img1.jpg)
+![IMAGE2](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img2.jpg)
+![IMAGE3](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img3.jpg)
+![IMAGE4](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img4.jpg)
+![IMAGE5](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img5.jpg)
+![IMAGE6](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img6.jpg)
 
 ## 📈 GitHub Stats
 
