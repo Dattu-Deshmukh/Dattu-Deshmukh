@@ -21,16 +21,7 @@
 🛠 **Built With:**  
 `Python` `Streamlit` `Pandas` `OpenCV` `VS Code`
 
-🚀 **Live Demo:** [dattu-qr.streamlit.app](https://qr-scanner-entrypass-fairwell-event.streamlit.app)
-
-📸 **Preview:**
-
-![IMAGE1](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img1.jpg)
-![IMAGE2](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img2.jpg)
-![IMAGE3](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img3.jpg)
-![IMAGE4](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img4.jpg)
-![IMAGE5](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img5.jpg)
-![IMAGE6](https://raw.githubusercontent.com/Dattu-Deshmukh/QR-Code-Event-Entry-System/main/images/img6.jpg)
+🚀 **Webapp:** [dattu-qr.streamlit.app](https://qr-scanner-entrypass-fairwell-event.streamlit.app)
 
 ## 📈 GitHub Stats
 
